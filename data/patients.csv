@@ -1,0 +1,21 @@
+PatientID,Age,Sex,BloodPressure,Cholesterol,Diagnosis
+1,77,F,130,210,Hypertension
+2,26,M,150,245,Hypertension
+3,54,F,142,260,Heart Disease
+4,18,F,118,180,Healthy
+5,33,F,160,290,Heart Disease
+6,49,M,135,225,Hypertension
+7,41,M,124,195,Healthy
+8,16,F,115,170,Healthy
+9,62,M,120,185,Healthy
+10,68,M,155,270,Heart Disease
+11,21,F,138,230,Hypertension
+12,44,F,128,200,Healthy
+13,32,F,158,285,Heart Disease
+14,89,M,116,175,Healthy
+15,62,M,148,250,Hypertension
+16,72,M,132,215,Hypertension
+17,91,M,165,300,Heart Disease
+18,36,F,122,190,Healthy
+19,49,F,136,220,Hypertension
+20,45,F,152,265,Heart Disease
